@@ -6,5 +6,6 @@ public class Hello {
         System.out.println("I'm Alan");
         System.out.println("Nice to meet you!");
         System.out.println("Today is Thursday!");
+        System.out.println("Today is 2021/12/23");
     }
 }
